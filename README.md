@@ -1,8 +1,5 @@
 # RelatoriosIFSCEletronica
 Relatórios para a matéria de Eletrônica I
-# ifsc_eletronica_2020
-
-Relatórios e projetos da matéria de Eletrônica 2020/2
 
 Aluno: Cainã du Bocage
 
