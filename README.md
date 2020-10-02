@@ -10,4 +10,4 @@ Aluno: Cainã du Bocage
 #### [Parte 4-  Amplificador Subtrator]()
 
 ### Relatório 2 - Diodos
-#### [Parte 1: Circuito Retificador de Meia Onda]()
+#### [Parte 1 - Circuito Retificador de Meia Onda]()
