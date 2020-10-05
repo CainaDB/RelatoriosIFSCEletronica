@@ -15,13 +15,14 @@ Simular o circuito com tensão de entrada um sinal senoidal com 0,5 Vp e 1kHz de
 Utilizando o software LTSpice foi montado o circuito:
 
 
-
-
 ![nome](/relatorio_eletronica_1/CIRCUITOLM324NIMAGEM.jpg)
 
 #### Ganho da tensão entrada:
-
+Para saber por quanto a tensão de entrada será multiplicada, calcula-se o ganho da tensão de entrada.
 
 ![nome](/relatorio_eletronica_1/ganho.png)
 
 #### Tensão de entrada:
+
+
+![nome](/relatorio_eletronica_1/TENSAODEENTRADA.png)
