@@ -34,3 +34,19 @@ Para saber por quanto a tensão de entrada será multiplicada, calcula-se o ganh
 #### Circuito utilizando um AmpOp TL082
 
 ![nome](/relatorio_eletronica_1/circuitotl.png)
+
+#### Ganho da tensão entrada:
+Como o resistor é de 10k e o circuito apresenta as mesmas características, o ganho será igual ao circuito anterior.
+
+#### Tensão de Entrada:
+
+
+![nome](/relatorio_eletronica_1/entradacircuito2.png)
+
+#### Tensão de Saída:
+
+
+![nome](/relatorio_eletronica_1/saidacirc2.png)
+
+## Resultados
+Com os dois circuitos montados e comparados, podemos perceber a característica principal de seguidor de tensão (Buffer), isto é, como o ganho de tensão é unitário entre os dois circuitos, a tensão de saída será igual a tensão de entrada.
