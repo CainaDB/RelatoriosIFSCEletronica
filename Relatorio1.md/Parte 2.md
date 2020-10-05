@@ -69,3 +69,15 @@ Como o AmpOp não suporta uma tensão maior que a tensão de alimentação, que 
 Após um aumento de 0,07V na tensão de entrada a parte negativa acabou saturando também, ou seja, quando o sinal de entrada atingiu o valor de 1,14V tanto a parte positiva como a negativa saturaram.
 
 Como ainda temos uma tensão de alimentação de 12V, e a parte negativa satura em -11,32V teremos uma queda de tensão de -12V - (-11,32V) = -0,68V.
+
+#### Análise de saturação Circuito TL082:
+
+![nome](/relatorio_eletronica_1/saturaçaotl082.png)
+
+![nome](/relatorio_eletronica_1/negativasatur.png)
+
+Após aumentarmos lentamente a tensão de entrada, foi verificado uma saturação ao atingir um valor de 1,06V na parte positiva e negativa.
+Como a saturação ocorreu nos pontos de tensão de 10,37V e de -10,37V então o valor da queda de tensão será +/- 12V - (+/- 10,37) = +/-1,63V
+
+
+### Resultados
