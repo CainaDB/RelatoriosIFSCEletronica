@@ -33,7 +33,7 @@ Utilizar uma alimentação simétrica de +12V e -12V.
 #### Ganho da tensão entrada:
 Para saber por quanto a tensão de entrada será multiplicada, calcula-se o ganho da tensão de entrada.
 
-.....
+![nome](/relatorio_eletronica_1/ganho2.png)
 
 #### Tensão de Entrada e de saída LM324N:
 
