@@ -14,4 +14,7 @@ Simular o circuito com tensão de entrada um sinal senoidal com 0,5 Vp e 1kHz de
 #### Circuito utilizando um AmpOp LM324N
 Utilizando o software LTSpice foi montado o circuito:
 
+
+
+
 ![nome](/relatorio_eletronica_1/CIRCUITOLM324NIMAGEM.jpg)
