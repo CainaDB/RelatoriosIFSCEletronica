@@ -18,3 +18,10 @@ Utilizando o software LTSpice foi montado o circuito:
 
 
 ![nome](/relatorio_eletronica_1/CIRCUITOLM324NIMAGEM.jpg)
+
+#### Ganho da tensão entrada:
+
+
+![nome](/relatorio_eletronica_1/ganho.png)
+
+#### Tensão de entrada:
