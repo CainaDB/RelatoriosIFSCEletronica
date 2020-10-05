@@ -22,7 +22,15 @@ Para saber por quanto a tensão de entrada será multiplicada, calcula-se o ganh
 
 ![nome](/relatorio_eletronica_1/ganho.png)
 
-#### Tensão de entrada:
+#### Tensão de Entrada:
 
 
 ![nome](/relatorio_eletronica_1/TENSAODEENTRADA.png)
+
+#### Tensão de Saída:
+
+![nome](/relatorio_eletronica_1/tensaodesaida.png)
+
+#### Circuito utilizando um AmpOp TL082
+
+![nome](/relatorio_eletronica_1/circuitotl.png)
