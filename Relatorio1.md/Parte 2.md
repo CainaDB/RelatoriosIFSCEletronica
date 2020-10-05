@@ -1,0 +1,56 @@
+# Relatório 1 - AmpOp
+
+## Parte 2: Amplificador Inversor
+
+#### Objetivo:
+
+Medir o ganho de um amplificador inversor e verificar o efeito da saturação
+
+#### Experimento:
+
+Utilizar o Amplificador operacional LM324N e o TL082 para montar dois amplificadores inversores utilizando um resistor de realimentação de 20 kΩ e uma resistência de entrada de 2kΩ.
+Utilizar uma alimentação simétrica de +12V e -12V.
+
+#### Procedimento:
+
+1 - Simular o circuito utilizando como tensão de entrada um sinal senoidal com 0,5 Vp e 1kHz.
+
+2 - Mostrar os resultados da tensão de saída.
+
+3 - Verificar o valor do ganho obtido.
+
+4 - Aumentar o valor da tensão de entrada e analisar para qual valor da tensão de entrada ocorre a saturação do sinal.
+
+5 - Verificar qual o valor da queda de tensão com relação à tensão de alimentação.
+
+6 - Resultados.
+
+#### Circuito utilizando o AmpOp LM324N
+
+
+![nome](/relatorio_eletronica_1/circuitolmparte2.png)
+
+#### Ganho da tensão entrada:
+Para saber por quanto a tensão de entrada será multiplicada, calcula-se o ganho da tensão de entrada.
+
+.....
+
+#### Tensão de Entrada e de saída LM324N:
+
+![nome](/relatorio_eletronica_1/entradaesaidaparte2.png)
+
+
+#### Circuito utilizando o AmpOp TL082
+
+![nome](/relatorio_eletronica_1/TL082.png)
+
+#### Ganho da tensão entrada:
+Como o circuito apresenta as mesmas características o ganho será o mesmo do circuito anterior já calculado.
+
+#### Tensão de Entrada e de saída TL082:
+
+![nome](/relatorio_eletronica_1/entradaesaidatl082.png)
+
+### Análise de saturação
+
+Após analisarmos a tensão de entrada e de saída dos respectivos circuitos simulados, iremos aumentar lentamente a tensão de entrada para verificarmos a ocorrência da saturação do sinal.
