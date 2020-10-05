@@ -54,3 +54,14 @@ Como o circuito apresenta as mesmas características o ganho será o mesmo do ci
 ### Análise de saturação
 
 Após analisarmos a tensão de entrada e de saída dos respectivos circuitos simulados, iremos aumentar lentamente a tensão de entrada para verificarmos a ocorrência da saturação do sinal.
+
+
+#### Análise de saturação Circuito LM324N:
+
+![nome](/relatorio_eletronica_1/saturaçaolm3241.png)
+
+Após aumentarmos lentamente a tensão de entrada do circuito percebe-se a saturação quando a tensão de entrada recebe o valor de 1.08, porém, apenas a parte positiva da onda.
+
+![nome](/relatorio_eletronica_1/saturacaaaaao.png)
+
+Após um aumento de 0,07V na tensão de entrada a parte negativa acabou saturando também, ou seja, quando o sinal de entrada atingiu o valor de 1,14V tanto a parte positiva como a negativa saturaram.
