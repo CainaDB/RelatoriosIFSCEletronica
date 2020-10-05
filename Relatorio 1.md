@@ -13,4 +13,5 @@ Utilizar um Amplificador Operacional do tipo LM324N e do tipo TL082 para montar 
 Simular o circuito com tensão de entrada um sinal senoidal com 0,5 Vp e 1kHz de frequência.
 #### Circuito utilizando um AmpOp LM324N
 Utilizando o software LTSpice foi montado o circuito:
+
 ![nome](/relatorio_eletronica_1/CIRCUITOLM324NIMAGEM.jpg)
