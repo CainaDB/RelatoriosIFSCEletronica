@@ -81,3 +81,6 @@ Como a saturação ocorreu nos pontos de tensão de 10,37V e de -10,37V então o
 
 
 ### Resultados
+
+Quando efetuamos o calculo do ganho, fica visível na onda da tensão de entrada comparando com a tensão de saída a diferença entre os valores, nesse caso, 10x maior. A tensão de entrada com um valor de 500mV e a tensão de saída de 5V.
+Ambos os circuitos simulados apresentavam uma tensão de alimentação de 12V, ou seja, sabemos que ele irá saturar em valores maiores que a tensão de alimentação. No caso do circuito LM324N houve uma diferença nos valores de saturação positiva e negativa, a positiva sendo em 10,77V e a negativa em -11,32, tendo valores de queda de tensão de 1,23V e -0,68V respectivamente. No caso do circuito do TL082 a saturação positiva e negativa apresentaram mesmo valor de +1,63V e -1,63V.
