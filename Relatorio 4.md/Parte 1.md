@@ -41,3 +41,9 @@ As tensões máximas de operação do transistor da Diodes Incorporated.
 ![nome](/relatorio_eletronica_1/nexperiamaxi.png)
 
 As tensões máximas de operação do transistor da Nexperia.
+
+#### Curvas Id x VDS
+
+Foi utilizado o transistor da Diode Incorporated para a análise gráfica.
+
+![nome](/relatorio_eletronica_1/graficoid.png)
