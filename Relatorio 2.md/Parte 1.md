@@ -106,4 +106,6 @@ Com o aumento do capacitor podemos perceber que há uma diminuição na tensão 
  ![nome](/relatorio_eletronica_1/shunt.png)
 
  Essa resistência deriva uma parte da corrente do circuito de modo a possibilitar a medida de correntes de maior valor do que a obtida pelo fundo de escala do instrumento.
- 
+ O Resistor Shunt é conectado em série com a carga e utilizando a formula da lei de Ohm (V=R.I) descobre-se a sua resistência.
+
+ Fonte: https://www.newtoncbraga.com.br/index.php/matematica/10906-calculando-shunts-m279
