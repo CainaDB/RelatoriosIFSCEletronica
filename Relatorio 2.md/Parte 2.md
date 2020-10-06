@@ -70,3 +70,7 @@ Novamente há uma redução na tensão de ondulação quando aumentamos o valor 
 #### Valores de tensão média e eficaz de Vo
 
 ![nome](/relatorio_eletronica_1/vovovo3.png)
+
+ #### Tabela dos resultados dos valores de Tensão media, tensão eficaz e tensão máxima.
+
+ ![nome](/relatorio_eletronica_1/planilha2.png)
