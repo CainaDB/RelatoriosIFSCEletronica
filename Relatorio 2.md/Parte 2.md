@@ -29,7 +29,7 @@ Os diodos em série provocam uma queda de tensão notável na diferença no grá
 
 #### Valores de tensão média e eficaz de Vin
 
-![nome](/relatorio_eletronica_1/vinatual11.png)
+![nome](/relatorio_eletronica_1/vinatual.png)
 
 #### Valores de tensão média e eficaz de Vo
 
@@ -73,4 +73,4 @@ Novamente há uma redução na tensão de ondulação quando aumentamos o valor 
 
  #### Tabela dos resultados dos valores de Tensão media, tensão eficaz e tensão máxima.
 
- ![nome](/relatorio_eletronica_1/planilha2.png)
+ ![nome](/relatorio_eletronica_1/planiilha.png)
