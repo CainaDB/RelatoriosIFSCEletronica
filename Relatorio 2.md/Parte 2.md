@@ -29,11 +29,11 @@ Os diodos em série provocam uma queda de tensão notável na diferença no grá
 
 #### Valores de tensão média e eficaz de Vin
 
-![nome](/relatorio_eletronica_1/vinvinvin.png)
+![nome](/relatorio_eletronica_1/vinatual.png)
 
 #### Valores de tensão média e eficaz de Vo
 
-![nome](/relatorio_eletronica_1/vovovo.png)
+![nome](/relatorio_eletronica_1/voatual.png)
 
 #### Circuito retificador de onda completa com capacitor de 220μF
 
