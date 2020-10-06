@@ -60,9 +60,9 @@ Após analisarmos a tensão de entrada e de saída dos respectivos circuitos sim
 
 ![nome](/relatorio_eletronica_1/saturaçaolm3241.png)
 
-Após aumentarmos lentamente a tensão de entrada do circuito percebe-se a saturação quando a tensão de entrada recebe o valor de 1.08, porém, apenas a parte positiva da onda.
+Após aumentarmos lentamente a tensão de entrada do circuito percebe-se a saturação quando a tensão de entrada recebe o valor de 1.08V, porém, apenas a parte positiva da onda.
 
-Como o AmpOp não suporta uma tensão maior que a tensão de alimentação, que nesse caso é de 12V e ele acaba saturando em 10,77V a queda de tensão será dada por 12 - 10,77 = 1,23V.
+Como o AmpOp não suporta uma tensão maior que a tensão de alimentação, que nesse caso é de 12V e ele acaba saturando em 10,77V a queda de tensão será dada por 12V - 10,77V = 1,23V.
 
 ![nome](/relatorio_eletronica_1/saturacaaaaao.png)
 
