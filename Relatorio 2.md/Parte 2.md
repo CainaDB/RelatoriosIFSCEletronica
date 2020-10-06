@@ -41,7 +41,7 @@ Os diodos em série provocam uma queda de tensão notável na diferença no grá
 
 #### Amplitude da onda de tensão sobre o resistor (Vo) e da tensão no enrolamento secundário (Vin)
 
-![nome](/relatorio_eletronica_1/vinvo2.png)
+![nome](/relatorio_eletronica_1/vovalor220.png)
 
 Há uma redução na tensão de ondulação significante quando adicionamos o capacitor de 220μF
 
@@ -59,7 +59,7 @@ Há uma redução na tensão de ondulação significante quando adicionamos o ca
 
 #### Amplitude da onda de tensão sobre o resistor (Vo) e da tensão no enrolamento secundário (Vin)
 
-![nome](/relatorio_eletronica_1/vinvo3.png)
+![nome](/relatorio_eletronica_1/vovalor1000.png)
 
 Novamente há uma redução na tensão de ondulação quando aumentamos o valor do capacitor.
 
