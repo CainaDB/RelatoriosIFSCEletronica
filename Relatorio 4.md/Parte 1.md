@@ -35,7 +35,9 @@ Vt é a tensão de limiar (threshold).
 
 
 ![nome](/relatorio_eletronica_1/diodesmaxi.png)
+
 As tensões máximas de operação do transistor da Diodes Incorporated.
 
 ![nome](/relatorio_eletronica_1/nexperiamaxi.png)
+
 As tensões máximas de operação do transistor da Nexperia.
