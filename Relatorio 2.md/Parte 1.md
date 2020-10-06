@@ -13,9 +13,11 @@ Utilizar capacitores de 330μF e 2200μF.
 
 2 - Conectar um capacitor de 330μF e anotar os valores solicitados.
 
-3 - Após isso, substituir o capacitor de 330μF por um de 2200μF, observar o formato da onda da tensão de saída e anotar os valores de solicitados.
+3 - Substituir o capacitor de 330μF por um de 2200μF, observar o formato da onda da tensão de saída e anotar os valores de solicitados.
 
 4 - Responder o que são resistores shunt e como determinar o valor do resistor para o circuito.
+
+5- Resultados.
 
 #### Circuito retificador de meia onda sem capacitor:
 
@@ -66,3 +68,25 @@ A adição do capacitor no circuito tem um objetivo muito simples, diminuir a ta
 #### Formato de onda da corrente sobre o diodo.
 
 ![nome](/relatorio_eletronica_1/diodocapaci.png)
+
+ O valor médio foi de 147,28mA e o valor eficaz 435,89mA e o valor máximo da corrente foi de aproximadamente 2,08A.
+
+#### Circuito retificador de meia onda com capacitor de 2200μF
+
+![nome](/relatorio_eletronica_1/capacitor2200.png)
+
+#### Amplitude de onda da tensão (Vin) e da tensão sobre o resistor (Vo)
+
+![nome](/relatorio_eletronica_1/vinvocapac.png)
+
+Com o aumento do capacitor podemos perceber que há uma diminuição na tensão de ondulação do circuito (ripple) diminuindo a variação de tensão do circuito.
+
+#### Valores de tensão média e eficaz sobre o resistor.
+
+![nome](/relatorio_eletronica_1/vovalue.png)
+
+#### Formato de onda da corrente sobre o diodo.
+
+![nome](/relatorio_eletronica_1/d1value.png)
+
+ O valor médio foi de 751,66mA e o valor eficaz 2,74A e o valor máximo da corrente foi de aproximadamente 13,65A.
