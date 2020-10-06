@@ -16,7 +16,7 @@ Estudar as características e aplicações de circuitos com transistores do tipo
 
 #### Parâmetros, Valores de RDS, Tensão máxima de operação e Curvas Id x Vds
 
-![nome](/relatorio_eletronica_1/tabelamos.png)
+![nome](/relatorio_eletronica_1/tabelammos.png)
 
 O Cox foi calculado usando a fórmula Kp/Uo onde o Kp e o Uo foi retirado dos Datasheets e dos Models dos respectivos transistores.
 
