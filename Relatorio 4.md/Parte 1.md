@@ -14,7 +14,7 @@ Estudar as características e aplicações de circuitos com transistores do tipo
 
 3 - Será utilizado para a simulação o transistor 2N7002 de dois fabricantes distintos (Nexperia e Diodes Incorporated).
 
-#### Parâmetros, Valores de RDS, Tensão máxima de operação e Curvas Id x Vds
+### Parâmetros, Valores de RDS, Tensão máxima de operação e Curvas Id x Vds
 
 ![nome](/relatorio_eletronica_1/tabelammos.png)
 
@@ -42,7 +42,7 @@ As tensões máximas de operação do transistor da Diodes Incorporated.
 
 As tensões máximas de operação do transistor da Nexperia.
 
-#### Curvas Id x VDS
+### Curvas Id x VDS
 
 Foi utilizado o transistor da Diode Incorporated para a análise gráfica.
 
@@ -52,6 +52,6 @@ Foi utilizado o transistor da Diode Incorporated para a análise gráfica.
 
 Comparando o gráfico do simulado com o do datasheet do componente podemos notar uma diferença em relações aos fatores externos, por exemplo, no datasheet se leva em conta a temperatura enquanto no LTSpice isso é ignorado. Em geral, nos datasheets dos componentes há uma importância muito grande ao meio externo onde o componente é utilizado, todavia, em simulações de softwares é difícil trazer esse fator para dentro do programa e muitas vezes acaba prejudicando a simulação.
 
-#### Comparação com os valores teóricos
+### Comparação com os valores teóricos
 
 ![nome](/relatorio_eletronica_1/tabelardss.png)
