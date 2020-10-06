@@ -46,4 +46,12 @@ As tensões máximas de operação do transistor da Nexperia.
 
 Foi utilizado o transistor da Diode Incorporated para a análise gráfica.
 
-![nome](/relatorio_eletronica_1/graficoid.png)
+![nome](/relatorio_eletronica_1/graficocorrente.png)
+
+![nome](/relatorio_eletronica_1/comparativo.png)
+
+Comparando o gráfico do simulado com o do datasheet do componente podemos notar uma diferença em relações aos fatores externos, por exemplo, no datasheet se leva em conta a temperatura enquanto no LTSpice isso é ignorado. Em geral, nos datasheets dos componentes há uma importância muito grande ao meio externo onde o componente é utilizado, todavia, em simulações de softwares é difícil trazer esse fator para dentro do programa e muitas vezes acaba prejudicando a simulação.
+
+#### Comparação com os valores teóricos
+
+![nome](/relatorio_eletronica_1/tabelardss.png)
