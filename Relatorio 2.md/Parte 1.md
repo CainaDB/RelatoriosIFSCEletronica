@@ -42,3 +42,9 @@ Para que o diodo seja polarizado necessita-se de uma tensão mínima (nesse caso
 #### Tensão média eficaz de Vo
 
 ![nome](/relatorio_eletronica_1/vovalor.png)
+
+#### Características do Diodo
+
+![nome](/relatorio_eletronica_1/diodo11.png)
+
+O valor medio de corrente que passa pelo diodo é de 18,74mA, a corrente máxima é de aproximadamente 60,12mA e o valor eficaz de corrente é de 29,76mA.
