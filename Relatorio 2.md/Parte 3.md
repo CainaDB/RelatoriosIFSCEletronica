@@ -55,6 +55,6 @@ Utilizar capacitores de 220μF e 1000μF.
 
 ![nome](/relatorio_eletronica_1/vout2bla.png)
 
-#### Tabela dos resultados dos valores de Tensão media, tensão eficaz e tensão máxima.
+## Tabela dos resultados dos valores de Tensão media, tensão eficaz e tensão máxima.
 
 ![nome](/relatorio_eletronica_1/planilha3.png)
