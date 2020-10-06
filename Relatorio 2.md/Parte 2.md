@@ -29,7 +29,7 @@ Os diodos em série provocam uma queda de tensão notável na diferença no grá
 
 #### Valores de tensão média e eficaz de Vin
 
-![nome](/relatorio_eletronica_1/vinatual.png)
+![nome](/relatorio_eletronica_1/vinatual11.png)
 
 #### Valores de tensão média e eficaz de Vo
 
