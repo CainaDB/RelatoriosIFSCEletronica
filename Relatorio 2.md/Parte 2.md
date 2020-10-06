@@ -38,3 +38,35 @@ Os diodos em série provocam uma queda de tensão notável na diferença no grá
 #### Circuito retificador de onda completa com capacitor de 220μF
 
 ![nome](/relatorio_eletronica_1/capac.png)
+
+#### Amplitude da onda de tensão sobre o resistor (Vo) e da tensão no enrolamento secundário (Vin)
+
+![nome](/relatorio_eletronica_1/vinvo2.png)
+
+Há uma redução na tensão de ondulação significante quando adicionamos o capacitor de 220μF
+
+#### Valores de tensão média e eficaz de Vin
+
+![nome](/relatorio_eletronica_1/vinvinvin2.png)
+
+#### Valores de tensão média e eficaz de Vo
+
+![nome](/relatorio_eletronica_1/vovovo2.png)
+
+#### Circuito retificador de onda completa com capacitor de 1000μF
+
+![nome](/relatorio_eletronica_1/capac1.png)
+
+#### Amplitude da onda de tensão sobre o resistor (Vo) e da tensão no enrolamento secundário (Vin)
+
+![nome](/relatorio_eletronica_1/vinvo3.png)
+
+Novamente há uma redução na tensão de ondulação quando aumentamos o valor do capacitor.
+
+#### Valores de tensão média e eficaz de Vin
+
+![nome](/relatorio_eletronica_1/vinvinvin3.png)
+
+#### Valores de tensão média e eficaz de Vo
+
+![nome](/relatorio_eletronica_1/vovovo3.png)
