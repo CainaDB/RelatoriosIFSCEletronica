@@ -90,3 +90,9 @@ Com o aumento do capacitor podemos perceber que há uma diminuição na tensão 
 ![nome](/relatorio_eletronica_1/d1value.png)
 
  O valor médio foi de 751,66mA e o valor eficaz 2,74A e o valor máximo da corrente foi de aproximadamente 13,65A.
+
+ #### Tabela dos valores de Tensão media, tensão eficaz e tensão máxima.
+
+ ![nome](/relatorio_eletronica_1/planilha.png)
+
+ 
