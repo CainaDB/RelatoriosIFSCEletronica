@@ -97,4 +97,13 @@ Com o aumento do capacitor podemos perceber que há uma diminuição na tensão 
 
  ### Resultados
 
- Como podemos observar comparando os 3 circuitos anteriores, quando há a adição de um capacitor em paralelo o circuito faz com que durante o semiciclo negativo não aconteça uma queda abrupta na tensão em cima do resistor, evitando o comprometimento dos demais componentes do circuito, essa tensão de ondulação é controlada pelo capacitor que durante o semiciclo positivo carrega e descarrega lentamente durante o semiciclo negativo mantendo um valor de tensão proximo ao valor da tensão de pico do circuito. Porém, quanto maior o valor do capacitor, maior o valor da corrente que passa pelo circuito quando o mesmo é carregado podendo ainda sim comprometer os componentes caso os mesmos nao resistam a valores elevados de corrente.
+ Como podemos observar comparando os 3 circuitos anteriores, quando há a adição de um capacitor em paralelo o circuito faz com que durante o semiciclo negativo não aconteça uma queda abrupta na tensão em cima do resistor, evitando o comprometimento dos demais componentes do circuito, essa tensão de ondulação é controlada pelo capacitor que durante o semiciclo positivo carrega e descarrega lentamente durante o semiciclo negativo mantendo um valor de tensão próximo ao valor da tensão de pico do circuito. Porém, quanto maior o valor do capacitor, maior o valor da corrente que passa pelo circuito quando o mesmo é carregado podendo, ainda sim, comprometer os componentes caso os mesmos não resistam a valores elevados de corrente.
+
+ ### Parte 1b:  Resistores Shunt
+
+ O resistor de precisão, ou mais conhecido como resistor Shunt é um resistor de valor muito baixo conectado com o medidor para medições de corrente elétrica.
+
+ ![nome](/relatorio_eletronica_1/shunt.png)
+
+ Essa resistência deriva uma parte da corrente do circuito de modo a possibilitar a medida de correntes de maior valor do que a obtida pelo fundo de escala do instrumento.
+ 
