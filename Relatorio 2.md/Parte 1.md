@@ -15,9 +15,9 @@ Utilizar capacitores de 330μF e 2200μF.
 
 3 - Substituir o capacitor de 330μF por um de 2200μF, observar o formato da onda da tensão de saída e anotar os valores de solicitados.
 
-4 - Responder o que são resistores shunt e como determinar o valor do resistor para o circuito.
+4 - Resultados.
 
-5- Resultados.
+5- Responder o que são resistores shunt e como determinar o valor do resistor para o circuito.
 
 #### Circuito retificador de meia onda sem capacitor:
 
