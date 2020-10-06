@@ -54,3 +54,7 @@ Utilizar capacitores de 220μF e 1000μF.
 ### Valores de tensão máxima, média e eficaz e amplitude de onda da tensão sobre o resistor (Vout)
 
 ![nome](/relatorio_eletronica_1/vout2bla.png)
+
+#### Tabela dos resultados dos valores de Tensão media, tensão eficaz e tensão máxima.
+
+![nome](/relatorio_eletronica_1/planilha3.png)
