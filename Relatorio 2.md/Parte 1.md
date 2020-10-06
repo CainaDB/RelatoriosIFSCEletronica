@@ -29,7 +29,7 @@ Utilizar capacitores de 330μF e 2200μF.
 
 ![nome](/relatorio_eletronica_1/vo.png)
 
-#### Amplitude da tensão no enrolamento secundário (Vin) e na tensão sobre o resisto (Vo)
+#### Amplitude da tensão no Vin e na tensão sobre o resistor (Vo)
 
 ![nome](/relatorio_eletronica_1/vinvo.png)
 
@@ -48,3 +48,21 @@ Para que o diodo seja polarizado necessita-se de uma tensão mínima (nesse caso
 ![nome](/relatorio_eletronica_1/diodo11.png)
 
 O valor medio de corrente que passa pelo diodo é de 18,74mA, a corrente máxima é de aproximadamente 60,12mA e o valor eficaz de corrente é de 29,76mA.
+
+#### Circuito retificador de meia onda com capacitor de 330μF.
+
+![nome](/relatorio_eletronica_1/capacitor.png)
+
+#### Amplitude de onda da tensão (Vin) e da tensão sobre o resistor (Vo)
+
+![nome](/relatorio_eletronica_1/capacitorvinvo.png)
+
+A adição do capacitor no circuito tem um objetivo muito simples, diminuir a taxa de variação da tensão de saída sobre o resistor. Durante o ciclo positivo da tensão alternada do circuito o capacitor é carregado, e durante o ciclo negativo é descarregado, porém, como não é instantâneo a perda de tensão em cima do capacitor isso faz com que a tensão em cima do resistor não seja instantaneamente zero.
+
+#### Valores de tensão média e eficaz sobre o resistor.
+
+![nome](/relatorio_eletronica_1/vocapaci.png)
+
+#### Formato de onda da corrente sobre o diodo.
+
+![nome](/relatorio_eletronica_1/diodocapaci.png)
