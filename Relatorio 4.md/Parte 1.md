@@ -29,7 +29,7 @@ Onde Kn é a transcondutância (Kp).
 
 W/L são as dimensões.
 
-VGS é a Tensão Ground Source (porta-fonte).
+VGS é a Tensão Gate Source (porta-fonte).
 
 Vt é a tensão de limiar (threshold).
 
