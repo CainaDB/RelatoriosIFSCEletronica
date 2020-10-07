@@ -9,14 +9,14 @@ Simular o circuito abaixo e responder os devidos questionamentos.
 ![nome](/relatorio_eletronica_1/circf.png)
 
 
-#### Resultados Teóricos
+### Resultados Teóricos
 
 
 ![nome](/relatorio_eletronica_1/contamos.png)
 
-Após feito os cálculos, percebe-se que como o valor de VDS é maior que VGS - Vt, significa que o transistor está saturado.
+Após feito os cálculos, percebe-se que como o valor de VDS é #maior que VGS - Vt, significa que o transistor está na região de saturação.
 
-#### Resultados Simulados
+### Resultados Simulados
 
 
 ![nome](/relatorio_eletronica_1/capacimos1.png)
