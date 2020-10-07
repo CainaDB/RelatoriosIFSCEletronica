@@ -13,3 +13,9 @@ Aluno: Cainã du Bocage
 #### [Parte 1 - Circuito Retificador de Meia Onda](https://github.com/CainaDB/RelatoriosIFSCEletronica/blob/master/Relatorio%202.md/Parte%201.md)
 #### [Parte 2 - Circuito Retificador de Onda Completa](https://github.com/CainaDB/RelatoriosIFSCEletronica/blob/master/Relatorio%202.md/Parte%202.md)
 #### [Parte 3 - Circuito Retificador de Onda Completa com Transformador em Derivação](https://github.com/CainaDB/RelatoriosIFSCEletronica/blob/master/Relatorio%202.md/Parte%203.md)
+
+### Relatório 4 - Circuitos com Transistores do tipo MOS
+#### [Parte 1 - Parâmetros do transistor](https://github.com/CainaDB/RelatoriosIFSCEletronica/blob/master/Relatorio%204.md/Parte%201.md)
+#### [Parte 2 - Polarização de transistores do tipo NMOS](https://github.com/CainaDB/RelatoriosIFSCEletronica/blob/master/Relatorio%204.md/Parte%202.md)
+#### [Parte 3 - Espelho de corrente com transistores do tipo NMOS](https://github.com/CainaDB/RelatoriosIFSCEletronica/blob/master/Relatorio%204.md/Parte%203.md)
+#### [Parte 4 - Inversor com transistor do tipo NMOS (NMOS Inverter)](https://github.com/CainaDB/RelatoriosIFSCEletronica/blob/master/Relatorio%204.md/Parte%204.md)
