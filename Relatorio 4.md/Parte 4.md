@@ -22,7 +22,7 @@
 
 4. Caso sinal de entrada tenha(VIN) a amplitude reduzida para 2,5 V, achar o valor de RDS
 
-5. Comparar os resultados obtidos no simulado com a teoria.
+5. Comparar os resultados obtidos na simulação com a teoria.
 
 ### Circuito Simulado
 
@@ -38,11 +38,13 @@
 ![nome](/relatorio_eletronica_1/voutout1.png)
 
 
-
-
 #### Valor de RDS para a condição específica
 
 
 
 
 #### Valor de RDS caso Vin seja reduzido para 2.5V
+
+
+
+#### Comparação dos resultados obtidos na simulação com a teoria
