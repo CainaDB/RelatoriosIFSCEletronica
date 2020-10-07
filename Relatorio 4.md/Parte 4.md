@@ -26,13 +26,23 @@
 
 ### Circuito Simulado
 
-![nome](/relatorio_eletronica_1/circsim.png)
+![nome](/relatorio_eletronica_1/circsim1.png)
 
 #### Forma de onda de entrada
 
-![nome](/relatorio_eletronica_1/vinvin.png)
+![nome](/relatorio_eletronica_1/vinvin1.png)
 
 
 #### Forma de onda de saída
 
-![nome](/relatorio_eletronica_1/voutout.png)
+![nome](/relatorio_eletronica_1/voutout1.png)
+
+
+
+
+#### Valor de RDS para a condição específica
+
+
+
+
+#### Valor de RDS caso Vin seja reduzido para 2.5V
