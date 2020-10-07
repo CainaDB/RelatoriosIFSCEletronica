@@ -21,4 +21,4 @@ Após feito os cálculos, percebe-se que como o valor de VDS é #maior que VGS -
 
 ![nome](/relatorio_eletronica_1/capacimos1.png)
 
-Como podemos ver no ponto de operação acima, os valores teóricos coincidiram proximamente aos valores simulados, com isso, podemos afirmar que VDS > VGS-VT pois VGS=2,3 e VGS-VT é aproximadamente 0,12 fazendo com que o transistor esteja funcionando na região de saturação.
+Como podemos ver no ponto de operação acima, os valores teóricos coincidiram proximamente aos valores simulados, com isso, podemos afirmar que VDS > VGS-VT pois VGS=VD-VS=2,27 e VGS-VT é aproximadamente 0,12 fazendo com que o transistor esteja funcionando na região de saturação.
