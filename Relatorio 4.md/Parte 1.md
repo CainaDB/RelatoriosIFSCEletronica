@@ -55,3 +55,5 @@ Comparando o gráfico do simulado com o do datasheet do componente podemos notar
 ### Comparação com os valores teóricos
 
 ![nome](/relatorio_eletronica_1/tabelardss.png)
+
+No cálculo do RDS simulado há uma notável diferença em comparação com o teórico, mais uma vez, por causa de fatores externos.
