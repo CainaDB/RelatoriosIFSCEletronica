@@ -35,6 +35,6 @@ Como a corrente I(R2) é a mesma da corrente de IREF calculado anteriormente tem
 
 R2 = VCC - VT/ID2
 
-R2 = 9,99 - 2,154/0,007
+R2 = 9,99 - 2,154/0,00763875
 
-R2 = 1119,42 ohms.
+R2 = 1025,82 ohms.
