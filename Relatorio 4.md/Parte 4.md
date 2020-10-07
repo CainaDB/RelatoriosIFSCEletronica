@@ -24,4 +24,15 @@
 
 5. Comparar os resultados obtidos no simulado com a teoria.
 
-#### Circuito Simulados
+### Circuito Simulados
+
+![nome](/relatorio_eletronica_1/circsim.png)
+
+#### Forma de onda de entrada
+
+![nome](/relatorio_eletronica_1/vinvin.png)
+
+
+#### Forma de onda de saída
+
+![nome](/relatorio_eletronica_1/voutout.png)
