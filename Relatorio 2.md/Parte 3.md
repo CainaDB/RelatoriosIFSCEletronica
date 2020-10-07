@@ -1,6 +1,6 @@
 # Relatório 2 - Diodos
 
-### Parte 3: Circuito Retificador de Onda Completa com Transformador em Derivação
+### Parte 3 - Circuito Retificador de Onda Completa com Transformador em Derivação
 
 #### Experimento:
 

@@ -1,6 +1,6 @@
 # Relatório 4 -  Transistores do tipo MOS
 
-## Parte 2: Polarização de transistores do tipo NMOS:
+## Parte 2 - Polarização de transistores do tipo NMOS:
 
 #### Objetivo:
 

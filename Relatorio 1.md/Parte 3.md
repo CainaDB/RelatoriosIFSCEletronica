@@ -1,6 +1,6 @@
 # Relatório 1 - AmpOp
 
-### Parte 3: Amplificador Não-Inversor
+### Parte 3 - Amplificador Não-Inversor
 
 #### Objetivo:
 

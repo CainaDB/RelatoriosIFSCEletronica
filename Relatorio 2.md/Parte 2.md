@@ -1,6 +1,6 @@
 # Relatório 2 - Diodos
 
-### Parte 2: Circuito Retificador de Onda Completa
+### Parte 2 - Circuito Retificador de Onda Completa
 
 #### Experimento:
 

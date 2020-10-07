@@ -1,6 +1,6 @@
 # Relatório 1 - AmpOp
 
-## Parte 2: Amplificador Inversor
+## Parte 2 - Amplificador Inversor
 
 #### Objetivo:
 

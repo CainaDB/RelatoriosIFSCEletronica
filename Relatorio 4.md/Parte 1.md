@@ -1,6 +1,6 @@
 # Relatório 4 -  Transistores do tipo MOS
 
-## Parte 1: Parâmetros do transistor:
+## Parte 1 - Parâmetros do transistor:
 
 #### Objetivo:
 
