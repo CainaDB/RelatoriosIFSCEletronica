@@ -22,5 +22,9 @@ A corrente que passa por Q1 gera uma tensão e essa tensão polariza o Q2, poré
 
 ![nome](/relatorio_eletronica_1/contasresist.png)
 
+Como o valor de VGS'' é menor que Vt foi utilizado o VGS' para a conta de IREF, pois é necessário um valor maior que Vt para ele continuar operando.
+
 
 O valor de Resistência máximo é de aproximadamente 1023 ohms.
+
+#### Valores de VGS e Rmáximo simulados
