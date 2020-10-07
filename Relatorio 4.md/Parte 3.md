@@ -28,3 +28,13 @@ Como o valor de VGS'' é menor que Vt foi utilizado o VGS' para a conta de IREF,
 O valor de Resistência máximo é de aproximadamente 1023 ohms.
 
 #### Valores de VGS e Rmáximo simulados
+
+![nome](/relatorio_eletronica_1/simuladios.png)
+
+Como a corrente I(R2) é a mesma da corrente de IREF calculado anteriormente temos que o resultado do simulado é muito próximo do resultado do teórico.
+
+R2 = VCC - VT/ID2
+
+R2 = 9,99 - 2,154/0,007
+
+R2 = 1119,42 ohms.
