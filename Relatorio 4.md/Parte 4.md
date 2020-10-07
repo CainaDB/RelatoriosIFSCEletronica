@@ -2,7 +2,7 @@
 
 ## Parte 04 - Inversor com transistor do tipo NMOS Inverter
 
-##### Objetivo:
+#### Objetivo:
 
 1. Simular o circuito abaixo
 
