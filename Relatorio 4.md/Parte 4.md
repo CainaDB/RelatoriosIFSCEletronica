@@ -28,6 +28,8 @@
 
 ![nome](/relatorio_eletronica_1/circsim1.png)
 
+#### Utilizando Vin 5V
+
 #### Forma de onda de entrada
 
 ![nome](/relatorio_eletronica_1/vinvin1.png)
@@ -37,14 +39,31 @@
 
 ![nome](/relatorio_eletronica_1/voutout1.png)
 
+![nome](/relatorio_eletronica_1/draft.png)
+
+
+#### Utilizando Vin 2.5V
+
+#### Forma de onda de entrada
+
+![nome](/relatorio_eletronica_1/vin255.png)
+
+
+#### Forma de onda de saída
+
+![nome](/relatorio_eletronica_1/vo255.png)
+
+![nome](/relatorio_eletronica_1/vo25.png)
 
 #### Valor de RDS para a condição específica
 
-
+![nome](/relatorio_eletronica_1/vin05.png)
 
 
 #### Valor de RDS caso Vin seja reduzido para 2.5V
 
+
+![nome](/relatorio_eletronica_1/vin25.png)
 
 
 #### Comparação dos resultados obtidos na simulação com a teoria

@@ -14,6 +14,10 @@ Estudar as características e aplicações de circuitos com transistores do tipo
 
 3 - Será utilizado para a simulação o transistor 2N7002 de dois fabricantes distintos (Nexperia e Diodes Incorporated).
 
+#### OBS: Para este relatório (Relatório 4), será utilizado como Transistor de referência o transistor da Diodes Incorporated contendo as seguintes especificações técnicas.
+
+![nome](/relatorio_eletronica_1/diodees.png)
+
 ### Parâmetros, Valores de RDS, Tensão máxima de operação e Curvas Id x Vds
 
 ![nome](/relatorio_eletronica_1/tabelammos.png)
