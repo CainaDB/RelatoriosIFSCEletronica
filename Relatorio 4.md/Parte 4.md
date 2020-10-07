@@ -24,7 +24,7 @@
 
 5. Comparar os resultados obtidos no simulado com a teoria.
 
-### Circuito Simulados
+### Circuito Simulado
 
 ![nome](/relatorio_eletronica_1/circsim.png)
 
