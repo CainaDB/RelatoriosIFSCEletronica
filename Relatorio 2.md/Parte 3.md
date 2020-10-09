@@ -17,7 +17,7 @@ Utilizar capacitores de 220μF e 1000μF.
 
 #### Circuito retificador de onda completa sem capacitor
 
-![nome](/relatorio_eletronica_1/circuitoderi.png)
+![nome](/relatorio_eletronica_1/relatorio2parte3.png)
 
 #### Amplitude de onda da tensão no enrolamento secundário 1 e 2 (Vin e Vin1)
 
@@ -41,7 +41,7 @@ Utilizar capacitores de 220μF e 1000μF.
 
 ### Circuito retificador de onda completa com capacitor de 220μF
 
-![nome](/relatorio_eletronica_1/capacibla.png)
+![nome](/relatorio_eletronica_1/simula.png)
 
 ### Valores de tensão máxima, média e eficaz e amplitude de onda da tensão sobre o resistor (Vout)
 
@@ -49,7 +49,7 @@ Utilizar capacitores de 220μF e 1000μF.
 
 ### Circuito retificador de onda completa com capacitor de 1000μF
 
-![nome](/relatorio_eletronica_1/vo2bla.png)
+![nome](/relatorio_eletronica_1/simula1.png)
 
 ### Valores de tensão máxima, média e eficaz e amplitude de onda da tensão sobre o resistor (Vout)
 
