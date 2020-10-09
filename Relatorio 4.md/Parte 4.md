@@ -1,6 +1,6 @@
 # Roteiro 4
 
-## Parte 04 - Inversor com transistor do tipo NMOS (NMOS Inverter):
+## Parte 4 - Inversor com transistor do tipo NMOS (NMOS Inverter):
 
 #### Objetivo:
 
