@@ -29,63 +29,63 @@ Utilizar a alimentação simétrica de +/-12V. (limite a corrente em 0,05A).
 5 - Justificar as dissimilaridades encontradas utilizando os dados do datasheet.
 
 
-## Circuitos Simulados
+# Circuitos Simulados
 
-### Utilizando LM324N
+## Utilizando LM324N
 
 ![nome](/relatorio_eletronica_1/circsimulado1.png)
 
-##### Tensão de saída utilizando 12V de tensão de Entrada
+#### Tensão de saída utilizando 12V de tensão de Entrada
 
 ![nome](/relatorio_eletronica_1/circ1lm.png)
 
 Obtemos um valor de tensão de saída de aproximadamente 130,01mV
 
-##### Tensão de saída utilizando 0V de tensão de Entrada
+#### Tensão de saída utilizando 0V de tensão de Entrada
 
 ![nome](/relatorio_eletronica_1/utilizandovin0.png)
 
 Obtemos um valor de tensão de saída de aproximadamente 31,43mV
 
-#### Após acrescentarmos um resistor em serie de 620 Ohms
+### Após acrescentarmos um resistor em serie de 620 Ohms
 
-##### Tensão de saída utilizando 12V de tensão de Entrada
+#### Tensão de saída utilizando 12V de tensão de Entrada
 
 ![nome](/relatorio_eletronica_1/maisumres.png)
 
 Obtemos um valor de tensão de saída de aproximadamente 97,14mV
 
-##### Tensão de saída utilizando 0V de tensão de Entrada
+#### Tensão de saída utilizando 0V de tensão de Entrada
 
 ![nome](/relatorio_eletronica_1/maisumres1.png)
 
 Obtemos um valor de tensão de saída de aproximadamente 31,43mV
 
-### Utilizando TL082
+## Utilizando TL082
 
 ![nome](/relatorio_eletronica_1/tl.png)
 
-##### Tensão de saída utilizando 12V de tensão de Entrada
+#### Tensão de saída utilizando 12V de tensão de Entrada
 
 ![nome](/relatorio_eletronica_1/utiliz.png)
 
 Obtemos um valor de tensão de saída de aproximadamente 95,14mV
 
-###### Tensão de saída utilizando 0V de tensão de Entrada
+#### Tensão de saída utilizando 0V de tensão de Entrada
 
 ![nome](/relatorio_eletronica_1/utili.png)
 
 Obtemos um valor de tensão de saída de aproximadamente 120,67uV
 
-##### Após acrescentarmos um resistor em serie de 620 Ohms
+### Após acrescentarmos um resistor em serie de 620 Ohms
 
-###### Tensão de saída utilizando 12V de tensão de Entrada
+#### Tensão de saída utilizando 12V de tensão de Entrada
 
 ![nome](/relatorio_eletronica_1/acres.png)
 
 Obtemos um valor de tensão de saída de aproximadamente 63,46V
 
-###### Tensão de saída utilizando 0V de tensão de Entrada
+#### Tensão de saída utilizando 0V de tensão de Entrada
 
 ![nome](/relatorio_eletronica_1/acre.png)
 
