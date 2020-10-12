@@ -8,7 +8,7 @@ Analisar os reguladores shunt com diodo Zener.
 
 #### Calculo de VZ
 
-![nome](/relatorio_eletronica_1/dimens.png)
+![nome](/relatorio_eletronica_1/zn.png)
 
 #### Escolha do Diodo Zener
 
@@ -20,7 +20,9 @@ O Diodo zener escolhido para o relatório foi o KDZ30B da Rohm
 
 O valor de VZ será de 30V e Iz será 10mA
 
-![nome](/relatorio_eletronica_1/datar.png)
+![nome](/relatorio_eletronica_1/resistor.png)
+
+A resistencia calculada foi de 254 Ohms
 
 ### Circuito simulado
 
