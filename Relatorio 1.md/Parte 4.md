@@ -97,3 +97,31 @@ Obtemos um valor de tensão de saída de aproximadamente 63,46V
 Obtemos um valor de tensão de saída de aproximadamente 120,67uV
 
 ### Resultados e conclusões.
+
+Tensão de saída utilizando 12V:
+
+LM324N: 130,01mV
+
+TL082: 95,14mV
+
+Tensão de saída utilizando 0V:
+
+LM324N: 31,43mV
+
+TL082: 120,67uV
+
+##### Após o acréscimo de um resistor.
+
+Tensão de saída utilizando 12V:
+
+LM324N: 97,14mV
+
+TL082: 63,46mV
+
+Tensão de saída utilizando 0V:
+
+LM324N: 31,43mV
+
+TL082: 120,67uV
+
+Como podemos ver no circuito simulado, em todas as situações o AmpOp TL082 após reduzirmos a tensão de entrada a 0V a sua tensão de saída se aproxima muito a 0V por causa das não idealidades dos AmpOp.
