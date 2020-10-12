@@ -29,7 +29,7 @@ Utilizar a alimentação simétrica de +/-12V. (limite a corrente em 0,05A).
 5 - Resultados e conclusões.
 
 
-### Calculo de R1
+### Cálculo de R1
 
 ![nome](/relatorio_eletronica_1/dimen.png)
 
