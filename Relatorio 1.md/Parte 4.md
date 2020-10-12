@@ -26,7 +26,12 @@ Utilizar a alimentação simétrica de +/-12V. (limite a corrente em 0,05A).
 
 ![nome](/relatorio_eletronica_1/figura2.png)
 
-5 - Justificar as dissimilaridades encontradas utilizando os dados do datasheet.
+5 - Resultados e conclusões.
+
+
+### Calculo de R1
+
+![nome](/relatorio_eletronica_1/dimen.png)
 
 
 # Circuitos Simulados
