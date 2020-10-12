@@ -4,8 +4,7 @@
 
 #### Objetivo:
 
-Analisar os circuitos multiplicadores de tensão e os reguladores shunt com diodos zener.
-
+Analisar os circuitos multiplicadores de tensão.
 
 #### Escolha do capacitor
 
