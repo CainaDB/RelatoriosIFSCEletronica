@@ -8,7 +8,7 @@
 
 ![nome](/relatorio_eletronica_1/circ3.png)
 
-2 - Variar a resistência R2 e traçar a curva ID2 x V2
+2 - Variar a resistência R2.
 
 3 - Obter o valor máximo de R2 para o espelho de corrente funcionar corretamente
 
