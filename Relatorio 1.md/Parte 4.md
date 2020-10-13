@@ -110,7 +110,7 @@ LM324N: 31,43mV
 
 TL082: 120,67uV
 
-##### Após o acréscimo de um resistor.
+##### Após o acréscimo do resistor de 620 Ohms.
 
 Tensão de saída utilizando 12V:
 
