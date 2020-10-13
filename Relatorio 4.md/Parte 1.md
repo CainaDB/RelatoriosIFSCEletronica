@@ -18,7 +18,7 @@ Estudar as características e aplicações de circuitos com transistores do tipo
 
 ![nome](/relatorio_eletronica_1/diodees.png)
 
-### Parâmetros, Valores de RDS, Tensão máxima de operação e Curvas Id x Vds
+### Parâmetros, Valores de RDS e Tensão máxima de operação.
 
 ![nome](/relatorio_eletronica_1/tabelammos.png)
 
