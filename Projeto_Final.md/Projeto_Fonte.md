@@ -39,8 +39,39 @@ Os valores das tensões de alimentação dos AmpOps estão disponíveis em seu D
 
 Na parte 1 do relatório 3 foi visto que a tensão de VCC era de 32,54V, porém, se adicionarmos uma nova carga à saída VCC de resultado tem seu ripple aumentado, para diminuir esse ripple resultante se utiliza de um circuito regulador do tipo serie conectado após o circuito dobrador de tensão.
 
+### Projetando a fonte
 
+![nome](/relatorio_eletronica_1/blocofonte.png)
 
+Para a fonte ser concluída, precisamos nos ater a construção de cada um desses blocos que como resultado final temos a fonte linear.
+
+Especificações da fonte:
+
+AmpOp LM324
+
+MOSFET IRF540
+
+Vout = 15V
+
+Vin+ = 12Vrms
+
+Iout = 1A
+
+Tensão de ripple = 1V
+
+Queda de tensão nos diodos = 0,7V
+
+#### Primeiro e Segundo bloco
+
+![nome](/relatorio_eletronica_1/simuladson.png)
+
+Nessa simulação foi montado os dois primeiros blocos da fonte linear, referentes ao Transformador e ao Circuito Retificador
+
+Para o circuito retificador será utilizado o do tipo onda completa com transformador em derivação, pois se fosse utilizado o sem ponto de derivação a queda de tensão seria 2x maior do que a usual de 0.7V. Com isso, temos um valor de tensão de pico de 16,3V na qual será utilizada um resistor de 16,3 Ohms para obtermos uma corrente máxima de 1A.
+
+![nome](/relatorio_eletronica_1/voutvin.png)
+
+Nesta simulação temos que Vin+ é de aproximadamente 16,95V e Vout é de aproximadamente 16.06V.
 
 
 
