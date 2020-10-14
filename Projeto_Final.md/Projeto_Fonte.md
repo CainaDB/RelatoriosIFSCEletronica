@@ -73,8 +73,6 @@ Para o circuito retificador será utilizado o do tipo onda completa com transfor
 
 Nesta simulação temos que Vin+ é de aproximadamente 16,95V e Vout é de aproximadamente 16.06V.
 
-## Parte 2: Dimensionamento dos componentes do circuito da fonte linear e simulação do circuito.
-
 Especificações:
 
 Vin+ = 12Vrms
@@ -93,3 +91,5 @@ I_carga = 1,1A
 ![nome](/relatorio_eletronica_1/riper.png)
 
 Após adicionarmos o capacitor calculado de 9,17mF obtemos uma tensão de ripple de 0,71V menor que 1V como desejado.
+
+## Parte 2: Dimensionamento dos componentes do circuito da fonte linear e simulação do circuito.
