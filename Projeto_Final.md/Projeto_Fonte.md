@@ -92,4 +92,4 @@ I_carga = 1,1A
 
 ![nome](/relatorio_eletronica_1/riper.png)
 
-Após adicionarmos o capacitor calculado de 9,17mF obtemos uma tensão de ripple menor que 1V como desejado.
+Após adicionarmos o capacitor calculado de 9,17mF obtemos uma tensão de ripple de 0,71V menor que 1V como desejado.
