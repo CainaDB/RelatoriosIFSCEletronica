@@ -79,7 +79,7 @@ Vin+ = 12Vrms
 
 Tensão de Ripple (pós retificador) = 1V
 
-I_carga = 1,1A
+I carga = 1,1A
 
 ![nome](/relatorio_eletronica_1/calcuu.png)
 
@@ -88,9 +88,26 @@ I_carga = 1,1A
 
 ![nome](/relatorio_eletronica_1/ripleson.png)
 
-![nome](/relatorio_eletronica_1/riper.png)
-
 Após adicionarmos o capacitor calculado de 9,17mF obtemos uma tensão de ripple de 0,71V menor que 1V como desejado.
 
+#### Dobrador de tensão para a alimentação do AmpOp
+
+Para alimentar o AmpOp é necessário dimensionar o circuito dobrador de tensão. Como foi visto anteriormente, utilizando 12Vrms a tensão de saída do circuito dobrador é de 32,54V, com um ripple de 10% e corrente de alimentação dos AmpOps de 0,1A foi dimensionado o circuito dobrador de tensão.
+
+Foi utilizado o Diodo Zener UDZV27B de 27V da ROHM que possui Iz = 5mA e um transistor 2N3904 da NXP.
+
+![nome](/relatorio_eletronica_1/calc.png)
+
+![nome](/relatorio_eletronica_1/dobradorr.png)
+
+![nome](/relatorio_eletronica_1/dobrador.png)
+
+
+
+
+
+
+
+
+
 ## Parte 2: Dimensionamento dos componentes do circuito da fonte linear e simulação do circuito.
-sdfsdffs
