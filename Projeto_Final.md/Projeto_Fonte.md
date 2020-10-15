@@ -145,4 +145,7 @@ Caso a tensão de entrada do circuito seja menor que tensão da resistência Zen
 
 ![nome](/relatorio_eletronica_1/calculor1.png)
 
-![nome](/relatorio_eletronica_1/fontede.png)
+Após os cálculos, conseguimos dimensionar R1 como 140 Ohms.
+Levando em conta que IZ é igual a IE pois a corrente do emissor é a mesma corrente que do Zener e que R2 pode ter um valor alto com o tanto que não entre em região de corte, calculamos que R2<894k. Adotamos que R2 terá o valor de 50k no circuito simulado.
+
+![nome](/relatorio_eletronica_1/figura1112.png)
