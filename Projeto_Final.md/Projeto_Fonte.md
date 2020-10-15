@@ -124,7 +124,7 @@ Foi utilizado o Diodo zener UDZV10B (o mesmo usado para o dobrador porém com ou
 
 ![nome](/relatorio_eletronica_1/consta.png)
 
-Enquanto a carga não elevar a corrente para acima de 1A, isto é, valores de carga abaixo de 15 Ohms a fonte após o tempo de 34ms estará constante tendo um valor próximo de 15V.
+Enquanto a carga não elevar a corrente para acima de 1A, isto é, valores de carga abaixo de 15 Ohms a fonte após o tempo de 34ms estará constante tendo um valor próximo de 15V, nesse caso, um valor de 14,98V.
 
 #### Tensão de Ripple do regulador.
 
@@ -140,6 +140,9 @@ A tensão de ripple foi de aproximadamente 2mV.
 ![nome](/relatorio_eletronica_1/figura111.png)
 
 Caso a tensão de entrada do circuito seja menor que tensão da resistência Zener e da tensão de Zener o próprio Zener não irá polarizar, com isso, uma sugestão seria utilizar 2 transistores PNP para criar uma fonte de corrente para polarizar o diodo Zener não precisando da corrente que passa na sua resistência para ser polarizado.
+Assim como na imagem abaixo:
+
+![nome](/relatorio_eletronica_1/sobrec.png)
 
 #### Circuito simulado com fonte de corrente constante pro zener.
 
@@ -149,3 +152,15 @@ Após os cálculos, conseguimos dimensionar R1 como 140 Ohms.
 Levando em conta que IZ é igual a IE pois a corrente do emissor é a mesma corrente que do Zener e que R2 pode ter um valor alto com o tanto que não entre em região de corte, calculamos que R2<894k. Adotamos que R2 terá o valor de 50k no circuito simulado.
 
 ![nome](/relatorio_eletronica_1/figura1112.png)
+
+#### Tensão de saída do circuito com fonte de corrente.
+
+![nome](/relatorio_eletronica_1/tensaode.png)
+
+A tensão de saída Vout teve um valor de 14,97V, 0,01V a menos do que o do circuito regulador anterior.
+
+#### Tensão de ripple do circuito com fonte de corrente.
+
+![nome](/relatorio_eletronica_1/ripou.png)
+
+O valor da tensão de ripple foi de aproximadamente 495uV
