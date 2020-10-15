@@ -133,14 +133,10 @@ Enquanto a carga não elevar a corrente para acima de 1A, isto é, valores de ca
 A tensão de ripple foi de aproximadamente 2mV.
 
 
-
-
-
-
-
-
-
-
-
-
 ## Parte 2: Dimensionamento dos componentes do circuito da fonte linear e simulação do circuito.
+
+### Podemos melhorar esse circuito? Quais problemas podemos identificar nesta topologia?
+
+![nome](/relatorio_eletronica_1/figura111.png)
+
+Caso a tensão de entrada do circuito seja menor que tensão da resistência Zener e da tensão de Zener o próprio Zener não irá polarizar, com isso, uma sugestão seria utilizar 2 transistores PNP para criar uma fonte de corrente para polarizar o diodo Zener não precisando da corrente que passa na sua resistência.
