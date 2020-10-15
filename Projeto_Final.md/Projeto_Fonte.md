@@ -153,13 +153,13 @@ Levando em conta que IZ é igual a IE pois a corrente do emissor é a mesma corr
 
 #### Tensão de saída do circuito com fonte de corrente sem carga.
 
-![nome](/relatorio_eletronica_1/semcarga1.png)
+![nome](/relatorio_eletronica_1/fefe1.png)
 
 ![nome](/relatorio_eletronica_1/semcarga.png)
 
 #### Tensão de saída do circuito com fonte de corrente com carga de 15 Ohms.
 
-![nome](/relatorio_eletronica_1/figura1112.png)
+![nome](/relatorio_eletronica_1/fefe.png)
 
 ![nome](/relatorio_eletronica_1/tensaode.png)
 
