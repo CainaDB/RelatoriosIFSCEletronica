@@ -169,6 +169,12 @@ A tensão de saída Vout teve um valor de 14,97V, 0,01V a menos do que o do circ
 
 O valor da tensão de ripple foi de aproximadamente 495uV
 
-### Tensão e corrente do diodo Zener (D6) com carga de 15 Ohms.
+#### Tensão e corrente do diodo Zener (D6) com carga de 15 Ohms.
 
 ![nome](/relatorio_eletronica_1/d6.png)
+
+#### Podemos melhorar mais ainda? Que tal deixar essa fonte com valor ajustável? Como fazer isso?
+
+Ao ligar um resistor variável (potenciômetro) em paralelo com o Diodo Zener (D6) há a possibilidade de mudança de valor e assim ter um melhor arranjo sobre os valores de tensão de saída.
+
+## Parte 3: Adição do circuito de proteção de sobre corrente ao regulador linear.
