@@ -112,18 +112,19 @@ A tensão VCC obteve um valor de 26,86V
 
 ### Circuito Regulador
 
-Para o cálculo do resistor de zener foi utilizado a mesma formula do calculo anterior porém com os respectivos valores.
+Para o cálculo do resistor de zener foi utilizado a mesma fórmula do cálculo anterior porém com os respectivos valores.
 Para os resistores do regulador foi calculado que o valor de R3 é metade do valor de R4 pela relação R3/R4=0,5 com isso foi utilizado para o regulador R3=10k e R4=20k.
+Foi utilizado o Diodo zener UDZV10B (o mesmo usado para o dobrador porém com outra tensão no valor de 10V e 5mA), um transistor IRF540 da fabricante Vishay e o mesmo AmpOp utilizado em relatórios anteriores da ON Semiconductor.
 
 ![nome](/relatorio_eletronica_1/capaci2.png)
 
-![nome](/relatorio_eletronica_1/regulador.png)
+![nome](/relatorio_eletronica_1/regulador1.png)
 
 #### Tensão de saída do regulador.
 
-Enquanto a carga não elevar a corrente para acima de 1A a fonte após cerca estará constante um pouco abaixo do valor de 15V.
-
 ![nome](/relatorio_eletronica_1/consta.png)
+
+Enquanto a carga não elevar a corrente para acima de 1A, isto é, valores de carga abaixo de 15 Ohms a fonte após o tempo de 34ms estará constante tendo um valor próximo de 15V.
 
 #### Tensão de Ripple do regulador.
 
