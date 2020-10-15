@@ -81,26 +81,58 @@ Tensão de Ripple (pós retificador) = 1V
 
 I carga = 1,1A
 
-![nome](/relatorio_eletronica_1/calcuu.png)
+![nome](/relatorio_eletronica_1/capacifiltro.png)
+
 
 ![nome](/relatorio_eletronica_1/comcapa.png)
 
+#### Sinal de tensão de saída (Vout)
 
 ![nome](/relatorio_eletronica_1/ripleson.png)
 
-Após adicionarmos o capacitor calculado de 9,17mF obtemos uma tensão de ripple de 0,71V menor que 1V como desejado.
+![nome](/relatorio_eletronica_1/rip.png)
+
+Após adicionarmos o capacitor calculado de 9,17mF obtemos uma tensão de ripple de 0,72V menor que 1V como desejado.
 
 #### Dobrador de tensão para a alimentação do AmpOp
 
 Para alimentar o AmpOp com o circuito dobrador de tensão é necessário dimensionar o mesmo. Como foi visto anteriormente, utilizando 12Vrms a tensão de saída do circuito dobrador é de 32,54V, com um ripple de 10% e corrente de alimentação dos AmpOps de 0,1A foi dimensionado o circuito dobrador de tensão.
 
-Foi utilizado o Diodo Zener UDZV27B de 27V da ROHM que possui Iz = 5mA e um transistor 2N3904 da NXP.
+Foi utilizado o Diodo Zener UDZV27B de 27V da ROHM 5mA e um transistor 2N3904 da NXP.
 
-![nome](/relatorio_eletronica_1/calc.png)
+![nome](/relatorio_eletronica_1/capaci1.png)
 
 ![nome](/relatorio_eletronica_1/dobradorr.png)
 
+#### Tensão de saída do dobrador.
+
 ![nome](/relatorio_eletronica_1/dobrador.png)
+
+A tensão VCC obteve um valor de 26,86V
+
+### Circuito Regulador
+
+Para o cálculo do resistor de zener foi utilizado a mesma formula do calculo anterior porém com os respectivos valores.
+Para os resistores do regulador foi calculado que o valor de R3 é metade do valor de R4 pela relação R3/R4=0,5 com isso foi utilizado para o regulador R3=10k e R4=20k.
+
+![nome](/relatorio_eletronica_1/capaci2.png)
+
+![nome](/relatorio_eletronica_1/regulador.png)
+
+#### Tensão de saída do regulador.
+
+Enquanto a carga não elevar a corrente para acima de 1A a fonte após cerca estará constante um pouco abaixo do valor de 15V.
+
+![nome](/relatorio_eletronica_1/consta.png)
+
+#### Tensão de Ripple do regulador.
+
+![nome](/relatorio_eletronica_1/ripleregulador1.png)
+
+A tensão de ripple foi de aproximadamente 2mV.
+
+
+
 
 
 
