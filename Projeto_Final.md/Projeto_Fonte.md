@@ -139,4 +139,10 @@ A tensão de ripple foi de aproximadamente 2mV.
 
 ![nome](/relatorio_eletronica_1/figura111.png)
 
-Caso a tensão de entrada do circuito seja menor que tensão da resistência Zener e da tensão de Zener o próprio Zener não irá polarizar, com isso, uma sugestão seria utilizar 2 transistores PNP para criar uma fonte de corrente para polarizar o diodo Zener não precisando da corrente que passa na sua resistência.
+Caso a tensão de entrada do circuito seja menor que tensão da resistência Zener e da tensão de Zener o próprio Zener não irá polarizar, com isso, uma sugestão seria utilizar 2 transistores PNP para criar uma fonte de corrente para polarizar o diodo Zener não precisando da corrente que passa na sua resistência para ser polarizado.
+
+#### Circuito simulado com fonte de corrente constante pro zener.
+
+![nome](/relatorio_eletronica_1/calculor1.png)
+
+![nome](/relatorio_eletronica_1/fontede.png)
