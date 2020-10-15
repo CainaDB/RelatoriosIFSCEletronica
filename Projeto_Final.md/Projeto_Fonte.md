@@ -92,7 +92,7 @@ Após adicionarmos o capacitor calculado de 9,17mF obtemos uma tensão de ripple
 
 #### Dobrador de tensão para a alimentação do AmpOp
 
-Para alimentar o AmpOp é necessário dimensionar o circuito dobrador de tensão. Como foi visto anteriormente, utilizando 12Vrms a tensão de saída do circuito dobrador é de 32,54V, com um ripple de 10% e corrente de alimentação dos AmpOps de 0,1A foi dimensionado o circuito dobrador de tensão.
+Para alimentar o AmpOp com o circuito dobrador de tensão é necessário dimensionar o mesmo. Como foi visto anteriormente, utilizando 12Vrms a tensão de saída do circuito dobrador é de 32,54V, com um ripple de 10% e corrente de alimentação dos AmpOps de 0,1A foi dimensionado o circuito dobrador de tensão.
 
 Foi utilizado o Diodo Zener UDZV27B de 27V da ROHM que possui Iz = 5mA e um transistor 2N3904 da NXP.
 
