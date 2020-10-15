@@ -151,16 +151,24 @@ Assim como na imagem abaixo:
 Após os cálculos, conseguimos dimensionar R1 como 140 Ohms.
 Levando em conta que IZ é igual a IE pois a corrente do emissor é a mesma corrente que do Zener e que R2 pode ter um valor alto com o tanto que não entre em região de corte, calculamos que R2<894k. Adotamos que R2 terá o valor de 50k no circuito simulado.
 
-![nome](/relatorio_eletronica_1/figura1112.png)
+#### Tensão de saída do circuito com fonte de corrente sem carga.
 
-#### Tensão de saída do circuito com fonte de corrente.
+![nome](/relatorio_eletronica_1/semcarga1.png)
+
+![nome](/relatorio_eletronica_1/semcarga.png)
+
+#### Tensão de saída do circuito com fonte de corrente com carga de 15 Ohms.
+
+![nome](/relatorio_eletronica_1/figura1112.png)
 
 ![nome](/relatorio_eletronica_1/tensaode.png)
 
 A tensão de saída Vout teve um valor de 14,97V, 0,01V a menos do que o do circuito regulador anterior.
 
-#### Tensão de ripple do circuito com fonte de corrente.
-
 ![nome](/relatorio_eletronica_1/ripou.png)
 
 O valor da tensão de ripple foi de aproximadamente 495uV
+
+### Tensão e corrente do diodo Zener (D6) com carga de 15 Ohms.
+
+![nome](/relatorio_eletronica_1/d6.png)
