@@ -24,5 +24,5 @@ Aluno: Cainã du Bocage
 #### [Parte 3 - Espelho de corrente com transistores do tipo NMOS](https://github.com/CainaDB/RelatoriosIFSCEletronica/blob/master/Relatorio%204.md/Parte%203.md)
 #### [Parte 4 - Inversor com transistor do tipo NMOS (NMOS Inverter)](https://github.com/CainaDB/RelatoriosIFSCEletronica/blob/master/Relatorio%204.md/Parte%204.md)
 
-### Projeto Final - Fonte Linear.
+### Projeto Final - Fonte Linear
 #### [Projeto Final](https://github.com/CainaDB/RelatoriosIFSCEletronica/blob/master/Projeto_Final.md/Projeto_Fonte.md)
