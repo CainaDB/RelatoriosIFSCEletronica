@@ -14,7 +14,7 @@ Parte 1: Circuito proposto e resposta aos questionamentos.
 
 Parte 2: Simulação do circuito e dimensionamento dos componentes do circuito da fonte linear.
 
-Parte 3: Adição do circuito de proteção de sobre corrente ao regulador linear.
+Parte 3: Resposta aos questionamentos e adição do circuito de proteção de sobre corrente ao regulador linear.
 
 ## Parte 1: Circuito proposto e resposta aos questionamentos.
 
@@ -61,7 +61,15 @@ Tensão de ripple = 1V
 
 Queda de tensão nos diodos = 0,7V
 
-#### Primeiro e Segundo bloco
+### Primeiro, Segundo e Terceiro bloco.
+
+1 - Transformador
+
+2 - Retificador
+
+3 - Filtro (Filtragem)
+
+##### Transformador e retificador
 
 ![nome](/relatorio_eletronica_1/simuladson.png)
 
@@ -80,6 +88,8 @@ Vin+ = 12Vrms
 Tensão de Ripple (pós retificador) = 1V
 
 I carga = 1,1A
+
+##### Filtro
 
 ![nome](/relatorio_eletronica_1/capacifiltro.png)
 
@@ -108,7 +118,7 @@ Foi utilizado o Diodo Zener UDZV27B de 27V da ROHM 5mA e um transistor 2N3904 da
 
 ![nome](/relatorio_eletronica_1/dobrador.png)
 
-A tensão VCC obteve um valor de 26,86V
+A tensão VCC obteve um valor de 26,86V e a corrente de Zener nao ultrapassa 5mA tendo um valor de 4,93mA.
 
 ### Circuito Regulador
 
@@ -177,4 +187,63 @@ O valor da tensão de ripple foi de aproximadamente 495uV
 
 Ao ligar um resistor variável (potenciômetro) em paralelo com o Diodo Zener (D6) há a possibilidade de mudança de valor e assim ter um melhor arranjo sobre os valores de tensão de saída.
 
-## Parte 3: Adição do circuito de proteção de sobre corrente ao regulador linear.
+## Parte 3: Resposta aos questionamentos e adição do circuito de proteção de sobre corrente ao regulador linear.
+
+O conceito de sobrecorrente é simples, quando um equipamento que está sendo usado excede a sua capacidade nominal de condução de corrente este está tendo uma sobrecorrente, isto é, qualquer corrente que flui pelo equipamento maior do que este próprio equipamento foi projetado pra suportar. Essas sobrecorrentes podem causar danos sérios tanto ao equipamento como quem o está usando causando sobreaquecimento em certos componentes (Efeito Joule) e em casos mais graves podendo causar incêndios generalizados.
+
+Hoje no mercado há dispositivos de proteção que evitam com que isso aconteça, como é o caso do circuito de proteção contra sobrecorrente, esses dispositivos tem como função proteger o circuito de correntes elevadas, sempre que no circuito houver uma intensidade de corrente que possa prejudicar o funcionamento este mesmo equipamento deve interromper automaticamente a corrente que circula no circuito.
+
+#### O que é a proteção foldback?
+
+O circuito de proteção foldback funciona como um limitador de corrente que protege o regulador LDO de possíveis danos de sobrecorrente se a saída Vout e o terra GND estiverem em curto.
+
+![nome](/relatorio_eletronica_1/circfold.png)
+
+![nome](/relatorio_eletronica_1/foldb.png)
+
+Quando há uma diminuição no valor da tensão o limite de corrente cai linearmente, com isso, há uma proteção mais segura contra curtos-circuitos.
+
+#### Caso deseja-se fazer um circuito LDO, o que devemos levar em consideração para o regulador?
+
+Para garantir um bom funcionamento do regulador LDO, é necessário um circuito de proteção que limite a corrente para evitar possíveis estragos nos componentes. Ao mesmo tempo o circuito foldback ao mesmo tempo que limita a corrente ele limita a dissipação total da potência.
+
+#### Fonte simulada com proteção de sobrecorrente.
+
+##### Dimensionamento dos resistores
+
+![nome](/relatorio_eletronica_1/calu.png)
+
+![nome](/relatorio_eletronica_1/circsimulation1.png)
+
+#### Tensão de saída sem carga.
+
+![nome](/relatorio_eletronica_1/semc.png)
+
+A tensão de saída foi de 14,97V
+
+#### Tensão de saída com carga de 10 Ohms.
+
+![nome](/relatorio_eletronica_1/semc10.png)
+
+A tensão de saída foi de 10,15V
+
+#### Tensão de ripple com carga de 10 Ohms.
+
+![nome](/relatorio_eletronica_1/tenr.png)
+
+#### Tensão de saída com carga de 15 Ohms.
+
+![nome](/relatorio_eletronica_1/15o.png)
+
+A tensão de saída foi de 14,97V
+
+#### Tensão de ripple com carga de 15 Ohms.
+
+![nome](/relatorio_eletronica_1/tenrip.png)
+
+
+### Conclusão
+
+![nome](/relatorio_eletronica_1/finalpronto.png)
+
+Após a construção de todos os blocos, temos a construção completa da nossa fonte linear obtendo um valor de tensão de saída de aproximadamente 14,97V muito próximo aos 15V requisitado pelo projeto.
